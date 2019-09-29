@@ -9,4 +9,5 @@ You can add the bot [@WeatherBot](https://t.me/test1234321henesyBot) for test.
 ## Interface and functions 
 Just send bot your location or name of city.
 ![menu](https://habrastorage.org/webt/gj/pv/dn/gjpvdnvy68zoe905wv_c4f9wixo.png)
-![menu2](![](https://habrastorage.org/webt/7b/f1/oi/7bf1oikq-9trqrjtb_8wzm3nbgy.png)
+
+![menu2](https://habrastorage.org/webt/7b/f1/oi/7bf1oikq-9trqrjtb_8wzm3nbgy.png)
